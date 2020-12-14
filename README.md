@@ -35,6 +35,9 @@ How to use ls.py:
 This will return a list of all files in the DFS along with their corresponding file sizes
 
 References used:
+
 Eduardo Santin
+
 Gabriel Santiago
+
 Prof. Jose Ortiz
